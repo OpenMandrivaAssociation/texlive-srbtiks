@@ -1,6 +1,6 @@
 Name:		texlive-srbtiks
 Version:	63308
-Release:	1
+Release:	2
 Summary:	Font STIX2 for Serbian and Macedonian
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/srbtiks
