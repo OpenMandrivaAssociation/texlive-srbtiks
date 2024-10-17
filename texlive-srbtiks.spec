@@ -3,7 +3,7 @@ Version:	63308
 Release:	2
 Summary:	Font STIX2 for Serbian and Macedonian
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/srbtiks
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/srbtiks
 License:	ofl lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/srbtiks.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/srbtiks.doc.r%{version}.tar.xz
